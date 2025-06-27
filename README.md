@@ -123,39 +123,6 @@ The AI companion provides 15 different positive responses including:
 - Compliments and praise
 - Fun reactions with emojis
 
-## 📱 Browser Support
-
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-
-## 🚀 Deployment
-
-To deploy this application:
-
-1. **Build for production**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy the `build` folder** to your preferred hosting service:
-   - Netlify
-   - Vercel
-   - GitHub Pages
-   - Firebase Hosting
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -164,10 +131,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Fonts for the beautiful typography
 - The open-source community for inspiration and tools
 
-## 📞 Support
-
-If you have any questions or need help with the project, please open an issue in the repository.
-
----
-
-**Made with ❤️ for children's education and fun!**
